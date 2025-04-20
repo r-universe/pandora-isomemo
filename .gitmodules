@@ -5,6 +5,3 @@
 [submodule "IsoMemo"]
 	path = IsoMemo
 	url = https://github.com/pandora-isomemo/isomemo-data
-[submodule "Pandora"]
-	path = Pandora
-	url = https://github.com/pandora-isomemo/pandora-data
